@@ -1,0 +1,231 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    font-family: Poppins, Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #0f0f0f;
+    color: #ffffff;
+  }
+
+  ::selection {
+    background: rgba(212, 175, 55, 0.35); /* Gold selection */
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #0f0f0f;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #1c1c1c;
+    border: 1px solid #d4af37;
+    border-radius: 8px;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-brand-gold-500 px-6 py-3.5 text-sm font-semibold uppercase tracking-wider text-brand-black shadow-luxury transition-all duration-300 hover:-translate-y-1 hover:bg-brand-gold-400 hover:shadow-luxury-hover active:translate-y-0;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-md border border-brand-gold-500/30 bg-brand-black px-6 py-3.5 text-sm font-medium text-brand-gold-500 transition-all duration-300 hover:-translate-y-1 hover:border-brand-gold-500 hover:bg-brand-gray active:translate-y-0;
+  }
+
+  .glass-card {
+    @apply rounded-xl border border-white/5 bg-brand-gray/80 shadow-luxury backdrop-blur-xl transition-all duration-500;
+  }
+
+  .premium-card {
+    @apply rounded-xl border border-white/5 bg-brand-gray shadow-luxury transition-all duration-500 hover:-translate-y-2 hover:border-brand-gold-500/30 hover:shadow-luxury-hover;
+  }
+
+  .section-title {
+    @apply font-serif text-4xl font-normal tracking-tight text-white md:text-5xl lg:text-6xl;
+  }
+
+  .section-subtitle {
+    @apply mt-4 max-w-2xl font-sans text-base leading-relaxed text-brand-muted md:text-lg font-light;
+  }
+
+  .input-field {
+    @apply w-full rounded-md border border-white/10 bg-brand-black px-4 py-3.5 text-white placeholder-brand-muted/70 outline-none transition focus:border-brand-gold-500 focus:ring-1 focus:ring-brand-gold-500;
+  }
+
+  .badge {
+    @apply rounded-md px-2.5 py-1 text-xs font-bold uppercase tracking-wide;
+  }
+
+  .page-shell {
+    @apply mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes floatSoft {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-fade-up {
+  animation: fadeInUp 0.65s ease both;
+}
+
+.animate-float {
+  animation: floatSoft 4s ease-in-out infinite;
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #111827 25%, #1f2937 50%, #111827 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+.hero-bg {
+  background:
+    linear-gradient(180deg, rgba(15, 15, 15, 0.4) 0%, rgba(15, 15, 15, 0.8) 100%),
+    url('https://images.unsplash.com/photo-1542314831-c6a4d14d8628?w=2000&auto=format&fit=crop') center/cover no-repeat;
+}
+
+.bharat-chat-scroll {
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(212, 175, 55, 0.38) transparent;
+}
+
+.bharat-chat-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.bharat-chat-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.bharat-chat-scroll::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(212, 175, 55, 0.55), rgba(56, 189, 248, 0.28));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+}
+
+.bharat-message-in {
+  animation: bharatMessageIn 0.38s ease both;
+}
+
+.bharat-ambient-drift {
+  animation: bharatAmbientDrift 11s ease-in-out infinite;
+}
+
+.bharat-typing-dot {
+  animation: bharatTypingDot 1.15s ease-in-out infinite;
+}
+
+.bharat-thinking-card::after {
+  animation: bharatThinkingShimmer 1.8s ease-in-out infinite;
+  background: linear-gradient(110deg, transparent 0%, rgba(255, 255, 255, 0.12) 35%, rgba(212, 175, 55, 0.16) 50%, transparent 72%);
+  background-size: 220% 100%;
+  content: "";
+  inset: 0;
+  opacity: 0.55;
+  pointer-events: none;
+  position: absolute;
+}
+
+.bharat-recording-pulse {
+  animation: bharatRecordingPulse 1.3s ease-in-out infinite;
+}
+
+@keyframes bharatMessageIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes bharatAmbientDrift {
+  0%, 100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(18px, -12px, 0) scale(1.04);
+  }
+}
+
+@keyframes bharatTypingDot {
+  0%, 80%, 100% {
+    opacity: 0.38;
+    transform: translateY(0);
+  }
+  40% {
+    opacity: 1;
+    transform: translateY(-4px);
+  }
+}
+
+@keyframes bharatThinkingShimmer {
+  0% {
+    background-position: 160% 0;
+  }
+  100% {
+    background-position: -60% 0;
+  }
+}
+
+@keyframes bharatRecordingPulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(212, 175, 55, 0.32), 0 0 26px rgba(212, 175, 55, 0.22);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(212, 175, 55, 0), 0 0 34px rgba(212, 175, 55, 0.34);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bharat-message-in,
+  .bharat-ambient-drift,
+  .bharat-typing-dot,
+  .bharat-thinking-card::after,
+  .bharat-recording-pulse {
+    animation: none;
+  }
+}

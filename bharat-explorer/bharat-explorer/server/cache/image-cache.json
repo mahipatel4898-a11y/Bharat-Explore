@@ -1,0 +1,722 @@
+{
+  "place:taj mahal agra": {
+    "url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "taj mahal agra",
+    "kind": "place",
+    "cachedAt": 1777966038438
+  },
+  "hotel:itc narmada ahmedabad luxury hotel ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "itc narmada ahmedabad luxury hotel ahmedabad",
+    "kind": "hotel",
+    "cachedAt": 1789132603205
+  },
+  "hotel:hyatt regency ahmedabad luxury hotel ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "hyatt regency ahmedabad luxury hotel ahmedabad",
+    "kind": "hotel",
+    "cachedAt": 1789132601320
+  },
+  "hotel:courtyard by marriott ahmedabad luxury hotel ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "courtyard by marriott ahmedabad luxury hotel ahmedabad",
+    "kind": "hotel",
+    "cachedAt": 1789132601656
+  },
+  "hotel:the house of mg luxury hotel ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "the house of mg luxury hotel ahmedabad",
+    "kind": "hotel",
+    "cachedAt": 1789132603202
+  },
+  "hotel:fortune landmark ahmedabad luxury hotel ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "fortune landmark ahmedabad luxury hotel ahmedabad",
+    "kind": "hotel",
+    "cachedAt": 1789132603204
+  },
+  "city:agra uttar pradesh india travel": {
+    "url": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "agra uttar pradesh india travel",
+    "kind": "city",
+    "cachedAt": 1793768470206
+  },
+  "city:varanasi uttar pradesh india travel": {
+    "url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "varanasi uttar pradesh india travel",
+    "kind": "city",
+    "cachedAt": 1793768470285
+  },
+  "city:diu gujarat india travel": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "diu gujarat india travel",
+    "kind": "city",
+    "cachedAt": 1793768470288
+  },
+  "city:amritsar punjab india travel": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "amritsar punjab india travel",
+    "kind": "city",
+    "cachedAt": 1793768546807
+  },
+  "city:chennai tamil nadu india travel": {
+    "url": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "chennai tamil nadu india travel",
+    "kind": "city",
+    "cachedAt": 1793771802365
+  },
+  "city:mysore karnataka india travel": {
+    "url": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "mysore karnataka india travel",
+    "kind": "city",
+    "cachedAt": 1793771802368
+  },
+  "city:goa goa india travel": {
+    "url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "goa goa india travel",
+    "kind": "city",
+    "cachedAt": 1777966314381
+  },
+  "city:jaipur rajasthan india travel": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "jaipur rajasthan india travel",
+    "kind": "city",
+    "cachedAt": 1777966314385
+  },
+  "city:jaisalmer rajasthan india travel": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "jaisalmer rajasthan india travel",
+    "kind": "city",
+    "cachedAt": 1777966314388
+  },
+  "city:udaipur rajasthan india travel": {
+    "url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "udaipur rajasthan india travel",
+    "kind": "city",
+    "cachedAt": 1793771802372
+  },
+  "city:manali himachal pradesh india travel": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "manali himachal pradesh india travel",
+    "kind": "city",
+    "cachedAt": 1790584430439
+  },
+  "city:shimla himachal pradesh india travel": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "shimla himachal pradesh india travel",
+    "kind": "city",
+    "cachedAt": 1777966314472
+  },
+  "city:new delhi delhi india travel": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "new delhi delhi india travel",
+    "kind": "city",
+    "cachedAt": 1790584430869
+  },
+  "city:rishikesh uttarakhand india travel": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "rishikesh uttarakhand india travel",
+    "kind": "city",
+    "cachedAt": 1790584431384
+  },
+  "city:amritsar punjab landmark": {
+    "url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "amritsar punjab landmark",
+    "kind": "city",
+    "cachedAt": 1777966322434
+  },
+  "hotel:taj swarna amritsar luxury hotel amritsar": {
+    "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "taj swarna amritsar luxury hotel amritsar",
+    "kind": "hotel",
+    "cachedAt": 1777966325781
+  },
+  "hotel:hyatt regency amritsar luxury hotel amritsar": {
+    "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "hyatt regency amritsar luxury hotel amritsar",
+    "kind": "hotel",
+    "cachedAt": 1777966325823
+  },
+  "hotel:radisson blu hotel amritsar luxury hotel amritsar": {
+    "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "radisson blu hotel amritsar luxury hotel amritsar",
+    "kind": "hotel",
+    "cachedAt": 1777966325826
+  },
+  "hotel:fairfield by marriott amritsar luxury hotel amritsar": {
+    "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "fairfield by marriott amritsar luxury hotel amritsar",
+    "kind": "hotel",
+    "cachedAt": 1777966325828
+  },
+  "hotel:ramada by wyndham amritsar luxury hotel amritsar": {
+    "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "ramada by wyndham amritsar luxury hotel amritsar",
+    "kind": "hotel",
+    "cachedAt": 1777966325830
+  },
+  "place:somnath temple somnath": {
+    "url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "somnath temple somnath",
+    "kind": "place",
+    "cachedAt": 1777966339185
+  },
+  "place:triveni sangam somnath somnath": {
+    "url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "triveni sangam somnath somnath",
+    "kind": "place",
+    "cachedAt": 1777966339187
+  },
+  "place:bhalka tirth somnath": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "bhalka tirth somnath",
+    "kind": "place",
+    "cachedAt": 1777966339188
+  },
+  "place:prabhas patan museum somnath": {
+    "url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "prabhas patan museum somnath",
+    "kind": "place",
+    "cachedAt": 1777966339191
+  },
+  "place:gita mandir somnath somnath": {
+    "url": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "gita mandir somnath somnath",
+    "kind": "place",
+    "cachedAt": 1777966339192
+  },
+  "food:kathiawadi thali somnath food": {
+    "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "kathiawadi thali somnath food",
+    "kind": "food",
+    "cachedAt": 1777966359532
+  },
+  "food:gujarati thali at lords inn somnath somnath food": {
+    "url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "gujarati thali at lords inn somnath somnath food",
+    "kind": "food",
+    "cachedAt": 1777966359535
+  },
+  "food:dhokla somnath food": {
+    "url": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "dhokla somnath food",
+    "kind": "food",
+    "cachedAt": 1777966359538
+  },
+  "food:fafda jalebi somnath food": {
+    "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "fafda jalebi somnath food",
+    "kind": "food",
+    "cachedAt": 1777966359540
+  },
+  "food:khichdi kadhi somnath food": {
+    "url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "khichdi kadhi somnath food",
+    "kind": "food",
+    "cachedAt": 1777966359542
+  },
+  "city:udaipur rajasthan landmark": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "udaipur rajasthan landmark",
+    "kind": "city",
+    "cachedAt": 1790584431462
+  },
+  "city:shimla himachal pradesh landmark": {
+    "url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "shimla himachal pradesh landmark",
+    "kind": "city",
+    "cachedAt": 1777972120902
+  },
+  "place:basilica of bom jesus goa": {
+    "url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "basilica of bom jesus goa",
+    "kind": "place",
+    "cachedAt": 1793773147462
+  },
+  "place:dudhsagar falls goa": {
+    "url": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "dudhsagar falls goa",
+    "kind": "place",
+    "cachedAt": 1793773147469
+  },
+  "place:diu fort diu": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "diu fort diu",
+    "kind": "place",
+    "cachedAt": 1793773147474
+  },
+  "place:naida caves diu": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "naida caves diu",
+    "kind": "place",
+    "cachedAt": 1793773147477
+  },
+  "place:nagoa beach diu": {
+    "url": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "nagoa beach diu",
+    "kind": "place",
+    "cachedAt": 1793773147466
+  },
+  "place:st paul church diu diu": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "st paul church diu diu",
+    "kind": "place",
+    "cachedAt": 1793773147481
+  },
+  "place:gangeshwar mahadev temple diu": {
+    "url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "gangeshwar mahadev temple diu",
+    "kind": "place",
+    "cachedAt": 1793773149171
+  },
+  "place:fort aguada goa": {
+    "url": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "fort aguada goa",
+    "kind": "place",
+    "cachedAt": 1793773149301
+  },
+  "place:baga beach goa": {
+    "url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "baga beach goa",
+    "kind": "place",
+    "cachedAt": 1793773149304
+  },
+  "place:anjuna beach goa": {
+    "url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "anjuna beach goa",
+    "kind": "place",
+    "cachedAt": 1793773149437
+  },
+  "hotel:the leela goa luxury hotel goa": {
+    "url": "https://images.unsplash.com/photo-1542314831-c6a4d14d8628?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "the leela goa luxury hotel goa",
+    "kind": "hotel",
+    "cachedAt": 1793773149517
+  },
+  "hotel:w goa luxury hotel goa": {
+    "url": "https://images.unsplash.com/photo-1542314831-c6a4d14d8628?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "w goa luxury hotel goa",
+    "kind": "hotel",
+    "cachedAt": 1793773149558
+  },
+  "hotel:radhika beach resort luxury hotel diu": {
+    "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "radhika beach resort luxury hotel diu",
+    "kind": "hotel",
+    "cachedAt": 1793773149626
+  },
+  "hotel:kostamar beach resort luxury hotel diu": {
+    "url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "kostamar beach resort luxury hotel diu",
+    "kind": "hotel",
+    "cachedAt": 1793773150296
+  },
+  "hotel:azzaro resorts and spa luxury hotel diu": {
+    "url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "azzaro resorts and spa luxury hotel diu",
+    "kind": "hotel",
+    "cachedAt": 1793773150388
+  },
+  "hotel:the fern seaside luxurious tent resort diu luxury hotel diu": {
+    "url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "the fern seaside luxurious tent resort diu luxury hotel diu",
+    "kind": "hotel",
+    "cachedAt": 1793773150302
+  },
+  "hotel:hotel apaar diu luxury hotel diu": {
+    "url": "https://images.unsplash.com/photo-1542314831-c6a4d14d8628?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "hotel apaar diu luxury hotel diu",
+    "kind": "hotel",
+    "cachedAt": 1793773150454
+  },
+  "hotel:taj exotica resort and spa goa luxury hotel goa": {
+    "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "taj exotica resort and spa goa luxury hotel goa",
+    "kind": "hotel",
+    "cachedAt": 1793773150586
+  },
+  "hotel:grand hyatt goa luxury hotel goa": {
+    "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "grand hyatt goa luxury hotel goa",
+    "kind": "hotel",
+    "cachedAt": 1793773150628
+  },
+  "hotel:alila diwa goa luxury hotel goa": {
+    "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "alila diwa goa luxury hotel goa",
+    "kind": "hotel",
+    "cachedAt": 1793773150660
+  },
+  "food:pork vindaloo goa food": {
+    "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "pork vindaloo goa food",
+    "kind": "food",
+    "cachedAt": 1793773150850
+  },
+  "food:fish curry rice diu food": {
+    "url": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "fish curry rice diu food",
+    "kind": "food",
+    "cachedAt": 1793773151866
+  },
+  "food:diu grilled fish diu food": {
+    "url": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "diu grilled fish diu food",
+    "kind": "food",
+    "cachedAt": 1793773152591
+  },
+  "food:prawn curry diu food": {
+    "url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "prawn curry diu food",
+    "kind": "food",
+    "cachedAt": 1793773151880
+  },
+  "food:seafood at o coqueiro diu diu food": {
+    "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "seafood at o coqueiro diu diu food",
+    "kind": "food",
+    "cachedAt": 1793773152136
+  },
+  "food:gujarati snacks diu food": {
+    "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "gujarati snacks diu food",
+    "kind": "food",
+    "cachedAt": 1793773152621
+  },
+  "food:fish thali at ritz classic goa food": {
+    "url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "fish thali at ritz classic goa food",
+    "kind": "food",
+    "cachedAt": 1793773152815
+  },
+  "food:prawn curry rice goa food": {
+    "url": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "prawn curry rice goa food",
+    "kind": "food",
+    "cachedAt": 1793773152885
+  },
+  "food:bebinca at confeitaria 31 de janeiro goa food": {
+    "url": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "bebinca at confeitaria 31 de janeiro goa food",
+    "kind": "food",
+    "cachedAt": 1793773152988
+  },
+  "food:crab xec xec goa food": {
+    "url": "https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "crab xec xec goa food",
+    "kind": "food",
+    "cachedAt": 1793773153383
+  },
+  "city:agra uttar pradesh landmark": {
+    "url": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "agra uttar pradesh landmark",
+    "kind": "city",
+    "cachedAt": 1790584638767
+  },
+  "place:sabarmati ashram ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "sabarmati ashram ahmedabad",
+    "kind": "place",
+    "cachedAt": 1789132601259
+  },
+  "place:kankaria lake ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "kankaria lake ahmedabad",
+    "kind": "place",
+    "cachedAt": 1789132601312
+  },
+  "place:adalaj stepwell ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "adalaj stepwell ahmedabad",
+    "kind": "place",
+    "cachedAt": 1789132601314
+  },
+  "place:jama masjid ahmedabad ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "jama masjid ahmedabad ahmedabad",
+    "kind": "place",
+    "cachedAt": 1789132601316
+  },
+  "place:sidi saiyyed mosque ahmedabad": {
+    "url": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "sidi saiyyed mosque ahmedabad",
+    "kind": "place",
+    "cachedAt": 1789132601318
+  },
+  "city:goa goa landmark": {
+    "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "goa goa landmark",
+    "kind": "city",
+    "cachedAt": 1793773152688
+  },
+  "hotel:trident agra luxury hotel agra": {
+    "url": "https://images.unsplash.com/photo-1542314831-c6a4d14d8628?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "trident agra luxury hotel agra",
+    "kind": "hotel",
+    "cachedAt": 1790584641344
+  },
+  "hotel:jaypee palace hotel agra luxury hotel agra": {
+    "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "jaypee palace hotel agra luxury hotel agra",
+    "kind": "hotel",
+    "cachedAt": 1790584641346
+  },
+  "hotel:the oberoi amarvilas agra luxury hotel agra": {
+    "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "the oberoi amarvilas agra luxury hotel agra",
+    "kind": "hotel",
+    "cachedAt": 1790584641348
+  },
+  "hotel:itc mughal agra luxury hotel agra": {
+    "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "itc mughal agra luxury hotel agra",
+    "kind": "hotel",
+    "cachedAt": 1790584641350
+  },
+  "hotel:taj hotel and convention centre agra luxury hotel agra": {
+    "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1400&h=900&q=85&crop=entropy&fm=jpg",
+    "source": "curated-fallback",
+    "photographer": "",
+    "sourceUrl": "https://unsplash.com/",
+    "query": "taj hotel and convention centre agra luxury hotel agra",
+    "kind": "hotel",
+    "cachedAt": 1790584641354
+  }
+}

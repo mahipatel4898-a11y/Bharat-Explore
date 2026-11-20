@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-label="Bharat Explorer travel image fallback">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#050814"/>
+      <stop offset="0.48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0f0f0f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0.34"/>
+      <stop offset="0.45" stop-color="#38bdf8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#d4af37" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <rect width="1400" height="900" fill="url(#glow)"/>
+  <path d="M0 690 C 210 610, 330 635, 520 565 S 850 470, 1040 535 1260 640, 1400 585 L 1400 900 L 0 900 Z" fill="#020617" opacity="0.72"/>
+  <path d="M0 724 C 260 638, 394 672, 600 594 S 872 528, 1075 594 1266 690, 1400 638" fill="none" stroke="url(#line)" stroke-width="3"/>
+  <circle cx="1040" cy="255" r="86" fill="#d4af37" opacity="0.18"/>
+  <circle cx="1040" cy="255" r="46" fill="#d4af37" opacity="0.28"/>
+  <g transform="translate(595 285)" fill="none" stroke="#f8fafc" stroke-linecap="round" stroke-linejoin="round" opacity="0.88">
+    <path d="M105 0 C 40 58, 7 126, 0 205 C 88 190, 160 150, 214 80 C 184 45, 149 18, 105 0 Z" stroke-width="18"/>
+    <path d="M104 36 C 100 100, 78 154, 36 196" stroke-width="12" opacity="0.6"/>
+    <path d="M132 68 L 224 202" stroke-width="14" opacity="0.6"/>
+  </g>
+  <text x="700" y="560" text-anchor="middle" fill="#ffffff" font-family="Poppins, Inter, Arial, sans-serif" font-size="48" font-weight="800">Bharat Explorer</text>
+  <text x="700" y="612" text-anchor="middle" fill="#d4af37" font-family="Poppins, Inter, Arial, sans-serif" font-size="24" font-weight="500">Travel image loading</text>
+</svg>

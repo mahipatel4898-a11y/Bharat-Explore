@@ -1,0 +1,198 @@
+.visual-experience-section {
+  padding: 4rem 5%;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 30px;
+  margin: 2rem 0;
+  backdrop-filter: blur(10px);
+}
+
+.premium-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #fff 0%, #aaa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.5rem;
+}
+
+.section-subtitle {
+  color: #888;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+.category-tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  overflow-x: auto;
+  padding-bottom: 1rem;
+  scrollbar-width: none;
+}
+
+.tab-btn {
+  padding: 0.8rem 1.5rem;
+  border-radius: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.05);
+  color: #fff;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.3s ease;
+}
+
+.tab-btn.active {
+  background: #fff;
+  color: #000;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(255, 255, 255, 0.1);
+}
+
+.visual-carousel {
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+  padding: 1rem 0 2rem;
+  scrollbar-width: none;
+}
+
+.visual-carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.media-card {
+  min-width: 280px;
+  height: 450px;
+  border-radius: 24px;
+  position: relative;
+  overflow: hidden;
+  background: #111;
+  cursor: pointer;
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.media-card:hover {
+  transform: translateY(-10px) scale(1.02);
+}
+
+.media-card .reels-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.video-card::before {
+  content: 'LIVE REEL';
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: rgba(255, 56, 92, 0.9);
+  color: #fff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  font-size: 0.7rem;
+  font-weight: 800;
+  z-index: 10;
+  letter-spacing: 1px;
+}
+
+.instagram-container {
+  width: 100%;
+  height: 450px;
+  overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  background: #000;
+  scrollbar-width: none;
+}
+
+.instagram-container::-webkit-scrollbar {
+  display: none;
+}
+
+.instagram-media {
+  min-width: 100% !important;
+  height: 100% !important;
+}
+
+.play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  color: #fff;
+  opacity: 0.8;
+}
+
+.duration-tag {
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+  padding: 0.3rem 0.7rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  width: fit-content;
+  margin-bottom: 0.5rem;
+}
+
+.card-title {
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.panorama-card .panorama-viewer {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  cursor: grab;
+  overflow: hidden;
+}
+
+.panorama-card .panorama-viewer:active {
+  cursor: grabbing;
+}
+
+.pano-track {
+  display: flex;
+  height: 100%;
+  will-change: transform;
+}
+
+.pano-image {
+  height: 100%;
+  width: auto;
+  min-width: 1000px; /* Force an overflow for dragging */
+  object-fit: cover;
+}
+
+.panorama-badge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: #ff385c;
+  color: #fff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  font-size: 0.7rem;
+  font-weight: 800;
+  z-index: 10;
+}
+
+.drag-hint {
+  color: #aaa;
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+}
+
+@media (max-width: 768px) {
+  .media-card {
+    min-width: 220px;
+    height: 380px;
+  }
+  .premium-title {
+    font-size: 1.8rem;
+  }
+}
